@@ -1,0 +1,40 @@
+body {
+	background-color: goldenrod;
+}
+
+article strong {
+	/*font-size: 200%;*/
+	color: purple;
+	font-family: "Comic Sans MS";
+}
+
+article p {
+	color: pink;
+}
+
+
+p {
+	color: rebeccapurple;
+	font-family: Helvetica, Arial, sans-serif;
+	font-style: normal;
+	line-height: 1.25em;
+	margin-bottom: 15px;
+	font-size: 1em;
+}
+
+header {
+   font-family: "Comic Sans MS", sans-serif;
+	 font-size: 4em;
+}
+header h1 {
+   font-family: Georgia, serif;
+}
+
+.site-title, .home-title {
+	color: deeppink;
+}
+
+.home-title {
+	font-size: 3em;
+}
+
